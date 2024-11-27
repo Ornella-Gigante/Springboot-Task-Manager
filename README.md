@@ -120,6 +120,16 @@ Run the test suite:
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 
+# Project Audit 🎓
+
+This project is being audited by:
+
+Code Sherpas - A Software Craftsmanship company focused on quality and best practices
+Dario Scattolini - Senior Software Engineer and Project Mentor
+
+✅ Code Sherpas 
+✅ Dario Scattolini - Project Mentor
+
 ## License 📄
 
 This project is licensed under the MIT License - see the LICENSE file for details.
