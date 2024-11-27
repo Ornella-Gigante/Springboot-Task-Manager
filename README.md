@@ -125,8 +125,8 @@ Run the test suite:
 This project is being audited by:
 
 
-✅ [Code Sherpas](https://www.code-sherpas.rocks/en-US)
-✅ [Dario Scattolini-Project Mentor](https://github.com/darioscattolini)
+- ✅ [Code Sherpas](https://www.code-sherpas.rocks/en-US)
+- ✅ [Dario Scattolini-Project Mentor](https://github.com/darioscattolini)
 
 ## License 📄
 
