@@ -124,11 +124,9 @@ Run the test suite:
 
 This project is being audited by:
 
-Code Sherpas - A Software Craftsmanship company focused on quality and best practices
-Dario Scattolini - Senior Software Engineer and Project Mentor
 
-✅ Code Sherpas 
-✅ Dario Scattolini - Project Mentor
+✅ [Code Sherpas](https://www.code-sherpas.rocks/en-US)
+✅ [Dario Scattolini-Project Mentor](https://github.com/darioscattolini)
 
 ## License 📄
 
